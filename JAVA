@@ -1,0 +1,4 @@
+@FunctionalInterface
+interface Foo {
+	void test();
+}
